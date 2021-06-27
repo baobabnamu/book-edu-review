@@ -6,11 +6,11 @@
 - [책 이름], [출판사]  
 [후기 링크 or 정리 링크]
 
-## Status: Scheduled to Read book ⛅
+## Status: Scheduled to Read book & Educate ⛅
 - TCP/IP가 보이는 그림책, 성안당
 - HTTP 완벽 가이드, 인사이트
 
-## Status: Now Reading ☀️
+## Status: Now Reading & Educating☀️
 - Python이 보이는 그림책, 성안당
 - 초보자를 위한 파이썬 300제, 위키독스(조대표)
 
