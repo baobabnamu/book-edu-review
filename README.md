@@ -12,7 +12,7 @@
 
 ## Status: Now Reading & Educating☀️
 - Python이 보이는 그림책, 성안당
-- 프로그래머스 Cos Pro 2급 모의고사, 프로그래머스   
+- 프로그래머스 Cos Pro 1급 모의고사, 프로그래머스   
 
 ## Status: Done 😎
 - 프로그래머스 Cos Pro 2급 모의고사, 프로그래머스   
