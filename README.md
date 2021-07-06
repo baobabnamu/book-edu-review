@@ -13,6 +13,7 @@
 ## Status: Now Reading & Educating☀️
 - Python이 보이는 그림책, 성안당
 - 코드 없는 알고리즘과 데이터 구조, 동양북스
+- COS PRO 1급 기출문제, 구름
 
 ## Status: Done 😎
 - 프로그래머스 Cos Pro 2급 모의고사, 프로그래머스   
