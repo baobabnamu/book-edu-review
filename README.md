@@ -12,8 +12,8 @@
 - http://www.yes24.com/Product/goods/97782392
 
 ## Status: Now Reading & Educating☀️
-- 코드 없는 알고리즘과 데이터 구조, 동양북스
 - COS PRO 1급 기출문제, 구름
+- https://thebook.io/006935/ 모두의 알고리즘 with 파이썬
 - Samjung Bird
 
 ## Status: Done 😎
@@ -28,4 +28,6 @@
 
 - Python이 보이는 그림책, 성안당
 
-- Boiler Plate
+- Boiler Plate (Node JS & React)
+
+- 코드 없는 알고리즘과 데이터 구조, 동양북스
