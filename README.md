@@ -7,14 +7,8 @@
 [후기 링크 or 정리 링크]
 
 ## Status: Scheduled to Read book & Educate ⛅
-- TCP/IP가 보이는 그림책, 성안당
-- HTTP 완벽 가이드, 인사이트
-- http://www.yes24.com/Product/goods/97782392
 
 ## Status: Now Reading & Educating☀️
-- COS PRO 1급 기출문제, 구름
-- https://thebook.io/006935/ 모두의 알고리즘 with 파이썬
-- Samjung Bird
 
 ## Status: Done 😎
 - 프로그래머스 Cos Pro 2급 모의고사, 프로그래머스   
