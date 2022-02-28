@@ -9,6 +9,7 @@
 ## Status: Scheduled to Read book & Educate ⛅
 
 ## Status: Now Reading & Educating☀️
+- 따라하면서 배우는 쿠버네티스 시리즈 
 
 ## Status: Done 😎
 - 프로그래머스 Cos Pro 2급 모의고사, 프로그래머스   
