@@ -9,7 +9,6 @@
 
 ## Status: Now Reading & Educating☀️
 - 따라하면서 배우는 쿠버네티스 시리즈 
-- MS DOCS | Kubernetes에서 애플리케이션 개발 및 배포
 
 ## Status: Done 😎
 - 프로그래머스 Cos Pro 2급 모의고사, 프로그래머스   
@@ -28,3 +27,7 @@
 - 코드 없는 알고리즘과 데이터 구조, 동양북스
 
 - 따라하며 배우는 도커와 CI 환경
+
+- MS Docs에 포함된 AKS 기초 자습서
+
+- 따라하며 배우는 NestJS
