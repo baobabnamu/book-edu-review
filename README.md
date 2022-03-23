@@ -9,6 +9,7 @@
 
 ## Status: Now Reading & Educating☀️
 - 따라하면서 배우는 쿠버네티스 시리즈 
+- 완벽한 IT 인프라 구축의 자동화를 위한 Kubernetes
 
 ## Status: Done 😎
 - 프로그래머스 Cos Pro 2급 모의고사, 프로그래머스   
