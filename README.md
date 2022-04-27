@@ -13,13 +13,10 @@
 
 ## Status: Done 😎
 - 프로그래머스 Cos Pro 2급 모의고사, 프로그래머스   
-후기링크 : https://baobab.live/7
 
 - 초보자를 위한 파이썬 300제, 위키독스(조대표)   
-후기링크 : https://baobab.live/8
 
 - 프로그래머스 Cos Pro 1급 모의고사, 프로그래머스    
-후기링크 : https://baobab.live/22
 
 - Python이 보이는 그림책, 성안당
 
@@ -34,3 +31,5 @@
 - 따라하며 배우는 NestJS
 
 - 누구나 쉽게 SQL
+
+- SQL 고득점 Kit, 그래머스    
