@@ -10,8 +10,6 @@
 ## Status: Now Reading & Educating☀️
 - 따라하면서 배우는 쿠버네티스 시리즈 
 - 완벽한 IT 인프라 구축의 자동화를 위한 Kubernetes
-- Nest JS로 배우는 백엔드 프로그래밍
-- 2시간 만에 REST API 구축하는 방법
 
 ## Status: Done 😎
 - 프로그래머스 Cos Pro 2급 모의고사, 프로그래머스   
@@ -35,3 +33,5 @@
 - 누구나 쉽게 SQL
 
 - SQL 고득점 Kit, 그래머스    
+
+- Nest JS로 배우는 백엔드 프로그래밍
